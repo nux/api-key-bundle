@@ -2,7 +2,7 @@
 
 namespace Uecode\Bundle\ApiKeyBundle\Model;
 
-use FOS\UserBundle\Model\User as BaseUser;
+use FOS\UserBundle\Entity\User as BaseUser;
 use FOS\UserBundle\Model\UserInterface;
 use Symfony\Component\Security\Core\User\UserInterface as BaseUserInterface;
 use Symfony\Component\Security\Core\User\AdvancedUserInterface;
